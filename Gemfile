@@ -31,6 +31,12 @@ gem "jbuilder"
 
 gem "ffi"
 
+gem 'faker'
+
+gem 'will_paginate'
+
+gem 'bootstrap-will_paginate'
+
 gem 'rails-controller-testing'
 
 # Use Redis adapter to run Action Cable in production
